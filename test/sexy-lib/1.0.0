@@ -1,4 +1,4 @@
 
 (lib (x)
-    (list 'test (* x x)))
+    (list 'test (+ x 1)))
 
